@@ -1,14 +1,14 @@
 {
     "lens_id": "",
-    "document_id": "g68vH1AUETOkGjKaWmbd",
+    "document_id": "2JCsxYNwyEvweQLHq5lo",
     "original_document_id": "7XvMaifvBdxiqBFQEQWU",
     "version": "29",
-    "lastChanged": "1642027344801",
+    "lastChanged": "1642124116756",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "false",
-    "isAutoSaved": "false",
+    "isAutoSaved": "true",
     "api_level": "public",
     "public_api_user_data_access": "restricted",
     "studioVersion": {
@@ -47,6 +47,144 @@
                     ],
                     [
                         "Script"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Fonts"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Fonts",
+                        "fredoka_one_regular"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Hints"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Hints",
+                        "tap_hint"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Materials"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Materials",
+                        "Palette Material"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Materials",
+                        "Popup Fill"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIButton"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIColorPicker"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIDiscretePicker"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIPanel"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIPopup"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Scripts",
+                        "UIToggle"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Color Picker"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Color Picker",
+                        "colorPicker_popup"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Color Picker",
+                        "colorpicker_background"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Color Picker",
+                        "palette_background"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Toggle"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "Toggle",
+                        "toggle_background"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "circle"
+                    ],
+                    [
+                        "UI",
+                        "Resources",
+                        "Textures",
+                        "half_circle"
                     ]
                 ]
             ]
@@ -105,7 +243,7 @@
             "foldedOwnerSceneObjects": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "-1:-1"
+            "active_graph_asset": "1642123469859400:597539"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -172,6 +310,142 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1642123469675031:597350",
+                    "name": "Files\/File9.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1642123469688091:597366",
+                    "name": "Files\/File10.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1642123469697450:597378",
+                    "name": "Files\/File11.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1642123469706114:597390",
+                    "name": "Files\/File12.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1642123469717699:597406",
+                    "name": "Files\/File13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1642123469725728:597418",
+                    "name": "Files\/File14.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1642123469734243:597430",
+                    "name": "Files\/File15.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1642123469745685:597442",
+                    "name": "Files\/File17.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1642123469757417:597458",
+                    "name": "Files\/File19.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1642123469768813:597470",
+                    "name": "Files\/File21.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1642123469780731:597486",
+                    "name": "Files\/File23.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1642123469792272:597498",
+                    "name": "Files\/File25.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1642123469803854:597510",
+                    "name": "Files\/File27.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1642123469814556:597526",
+                    "name": "Files\/File29",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1642123469859400:597539",
+                    "name": "Files\/File31",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1642123469942192:597565",
+                    "name": "Files\/File33",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1642123469996045:597647",
+                    "name": "Files\/File35.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -202,6 +476,734 @@
                                     "attachTop": "false"
                                 }
                             }
+                        },
+                        {
+                            "k": "1642123470002858:597669",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470021800:597812",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470035903:598035",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470049088:598179",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470064173:598322",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470076885:598463",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470089900:598606",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470101697:598740",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470116408:598967",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470135494:599181",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470147139:599321",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470160547:599544",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470171783:599678",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470193198:599958",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470207876:600092",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470224772:600319",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470246089:600533",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "true",
+                                    "attachLeft": "true",
+                                    "attachRight": "true",
+                                    "attachTop": "true"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470266578:600741",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470281986:600883",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470296596:601022",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470311677:601165",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470326370:601365",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470350117:601589",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470363768:601723",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470379582:601950",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470399704:602160",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "true",
+                                    "attachLeft": "true",
+                                    "attachRight": "true",
+                                    "attachTop": "true"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470420807:602372",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470435423:602510",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470450842:602653",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470466048:602792",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470481925:602996",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470496665:603134",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470515352:603285",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470531051:603424",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470547345:603651",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470564866:603791",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470582264:603934",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470597862:604157",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470616540:604301",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470634772:604440",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470652592:604667",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470668884:604807",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470685730:604950",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470701610:605173",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470721173:605317",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470737763:605460",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470754219:605683",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470774476:605897",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470788736:606061",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470801497:606195",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470818463:606352",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1642123470832501:606491",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
                         }
                     ],
                     "generalData": ""
@@ -216,7 +1218,59 @@
                 "3": "1639368824732786:267764",
                 "4": "1639370411618092:465659",
                 "5": "1639370411625029:465725",
-                "6": "1639370411704486:465868"
+                "6": "1639370411704486:465868",
+                "7": "1642123470000021:597659",
+                "8": "1642123470000697:597661",
+                "9": "1642123470001617:597663",
+                "10": "1642123470002110:597665",
+                "11": "1642123470002492:597667",
+                "12": "1642123470048090:598173",
+                "13": "1642123470048463:598175",
+                "14": "1642123470048818:598177",
+                "15": "1642123470063557:598318",
+                "16": "1642123470063892:598320",
+                "17": "1642123470076529:598461",
+                "18": "1642123470127824:599101",
+                "19": "1642123470128309:599103",
+                "20": "1642123470146428:599317",
+                "21": "1642123470146833:599319",
+                "22": "1642123470184544:599872",
+                "23": "1642123470185023:599874",
+                "24": "1642123470185501:599876",
+                "25": "1642123470186090:599878",
+                "26": "1642123470186497:599880",
+                "27": "1642123470206934:600090",
+                "28": "1642123470280469:600877",
+                "29": "1642123470281071:600879",
+                "30": "1642123470281551:600881",
+                "31": "1642123470339564:601499",
+                "32": "1642123470340428:601501",
+                "33": "1642123470341085:601507",
+                "34": "1642123470341707:601509",
+                "35": "1642123470342251:601511",
+                "36": "1642123470363196:601721",
+                "37": "1642123470433551:602504",
+                "38": "1642123470434215:602506",
+                "39": "1642123470434861:602508",
+                "40": "1642123470495285:603130",
+                "41": "1642123470496119:603132",
+                "42": "1642123470512601:603277",
+                "43": "1642123470513429:603279",
+                "44": "1642123470514098:603281",
+                "45": "1642123470514772:603283",
+                "46": "1642123470562799:603785",
+                "47": "1642123470563632:603787",
+                "48": "1642123470564264:603789",
+                "49": "1642123470614190:604295",
+                "50": "1642123470615165:604297",
+                "51": "1642123470615864:604299",
+                "52": "1642123470666597:604801",
+                "53": "1642123470667499:604803",
+                "54": "1642123470668211:604805",
+                "55": "1642123470718345:605311",
+                "56": "1642123470719354:605313",
+                "57": "1642123470720304:605315",
+                "58": "1642123470817571:606350"
             }
         },
         "LayerComponent": {
@@ -262,6 +1316,114 @@
                 {
                     "k": "8",
                     "v": "Files\/File8.js"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.js"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.js"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.js"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.js"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.js"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.js"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.pvr"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.pvr"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.pvr"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.pvr"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.pvr"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.pvr"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.pvr"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.pvr"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.pvr"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.pvr"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.pvr"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.pvr"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.lsmat"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.lsmat"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.ttf"
                 }
             ]
         },
@@ -415,6 +1577,110 @@
                     {
                         "k": "1100",
                         "v": "Script.js"
+                    },
+                    {
+                        "k": "1101",
+                        "v": "UI"
+                    },
+                    {
+                        "k": "1102",
+                        "v": "UI\/Resources"
+                    },
+                    {
+                        "k": "1103",
+                        "v": "UI\/Resources\/Scripts"
+                    },
+                    {
+                        "k": "1104",
+                        "v": "UI\/Resources\/Scripts\/UIButton.js"
+                    },
+                    {
+                        "k": "1105",
+                        "v": "UI\/Resources\/Scripts\/UIToggle.js"
+                    },
+                    {
+                        "k": "1106",
+                        "v": "UI\/Resources\/Scripts\/UIPanel.js"
+                    },
+                    {
+                        "k": "1107",
+                        "v": "UI\/Resources\/Scripts\/UIColorPicker.js"
+                    },
+                    {
+                        "k": "1108",
+                        "v": "UI\/Resources\/Scripts\/UIPopup.js"
+                    },
+                    {
+                        "k": "1109",
+                        "v": "UI\/Resources\/Scripts\/UIDiscretePicker.js"
+                    },
+                    {
+                        "k": "1110",
+                        "v": "UI\/Resources\/Textures"
+                    },
+                    {
+                        "k": "1111",
+                        "v": "UI\/Resources\/Textures\/Base.png"
+                    },
+                    {
+                        "k": "1112",
+                        "v": "UI\/Resources\/Textures\/circle.pvr"
+                    },
+                    {
+                        "k": "1113",
+                        "v": "UI\/Resources\/Textures\/Toggle"
+                    },
+                    {
+                        "k": "1114",
+                        "v": "UI\/Resources\/Textures\/Toggle\/toggle_background.pvr"
+                    },
+                    {
+                        "k": "1115",
+                        "v": "UI\/Resources\/Textures\/Color Picker"
+                    },
+                    {
+                        "k": "1116",
+                        "v": "UI\/Resources\/Textures\/Color Picker\/colorpicker_background.pvr"
+                    },
+                    {
+                        "k": "1117",
+                        "v": "UI\/Resources\/Textures\/Color Picker\/colorPicker_popup.pvr"
+                    },
+                    {
+                        "k": "1118",
+                        "v": "UI\/Resources\/Textures\/Color Picker\/palette_background.pvr"
+                    },
+                    {
+                        "k": "1119",
+                        "v": "UI\/Resources\/Textures\/half_circle.pvr"
+                    },
+                    {
+                        "k": "1120",
+                        "v": "UI\/Resources\/Materials"
+                    },
+                    {
+                        "k": "1121",
+                        "v": "UI\/Resources\/Materials\/Popup Fill.lsmat"
+                    },
+                    {
+                        "k": "1122",
+                        "v": "UI\/Resources\/Materials\/Palette Material.lsmat"
+                    },
+                    {
+                        "k": "1123",
+                        "v": "UI\/Resources\/Hints"
+                    },
+                    {
+                        "k": "1124",
+                        "v": "UI\/Resources\/Hints\/tap_hint"
+                    },
+                    {
+                        "k": "1125",
+                        "v": "UI\/Resources\/Fonts"
+                    },
+                    {
+                        "k": "1126",
+                        "v": "UI\/Resources\/Fonts\/fredoka_one_regular.ttf"
                     }
                 ],
                 "hashes": [
@@ -432,21 +1698,358 @@
                     },
                     {
                         "k": "1100",
-                        "v": "22155aadb5231ccb1d6d623fbb33976f"
+                        "v": "94a86682c078778d83bcab6e45222222"
+                    },
+                    {
+                        "k": "1104",
+                        "v": "5b33eee8ee1df2fbb140a5cb2fa939fc"
+                    },
+                    {
+                        "k": "1105",
+                        "v": "63f5718b78b0e3a23881210d26cfb4b9"
+                    },
+                    {
+                        "k": "1106",
+                        "v": "dd0fbff3f3a3839661124f523c66116c"
+                    },
+                    {
+                        "k": "1107",
+                        "v": "3899f64c6205627b542fc65f4fa22420"
+                    },
+                    {
+                        "k": "1108",
+                        "v": "ff5e821b7f7d018fd0a03a4634d15da1"
+                    },
+                    {
+                        "k": "1109",
+                        "v": "8d56ba82106a6e5c7144ced901f1bfbf"
+                    },
+                    {
+                        "k": "1111",
+                        "v": "203b97f7dd88fd357a12944549da2218"
+                    },
+                    {
+                        "k": "1112",
+                        "v": "5348e378327d0f21714885cba3843ed2"
+                    },
+                    {
+                        "k": "1114",
+                        "v": "8fb4180d0842adf53a14ccf422ddf41d"
+                    },
+                    {
+                        "k": "1116",
+                        "v": "13f99fe5f5f2688822059993c43d0e2e"
+                    },
+                    {
+                        "k": "1117",
+                        "v": "4081c5e100cee199c73c5a65bcd3f1af"
+                    },
+                    {
+                        "k": "1118",
+                        "v": "4d11d75ae2243c861010d652ed6f4458"
+                    },
+                    {
+                        "k": "1119",
+                        "v": "f25dcabcebddb9adb6278db0647f5d00"
+                    },
+                    {
+                        "k": "1121",
+                        "v": "66b60692e1e7d0704014a2266a44b986"
+                    },
+                    {
+                        "k": "1122",
+                        "v": "09e11d518797e22b1a6675ffa0b23dbb"
+                    },
+                    {
+                        "k": "1124",
+                        "v": "9e340bcf3427671639ad40a9295105b9"
+                    },
+                    {
+                        "k": "1126",
+                        "v": "4a2f2ea45a0bb1abe81b47d0afde4aae"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-01-12T15:41:16",
+                        "lastModified": "2022-01-13T18:35:10",
                         "name": "Public",
-                        "hash": "3815bd910c67932b9cf28e9f6b872e1c",
+                        "hash": "e6415dc006b53ee8fde472e8991d0dec",
                         "children": [
                             {
+                                "isFolder": "true",
+                                "lastModified": "2022-01-13T18:35:10",
+                                "name": "UI",
+                                "hash": "5ed992cac92c9ed93d0b7f8d5ac94518",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-01-13T18:35:10",
+                                        "name": "Resources",
+                                        "hash": "a918d8c2af153b4e3b3755de839d3761",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-01-13T18:35:10",
+                                                "name": "Textures",
+                                                "hash": "2363de15538aa8b9bced8b11f079bc8a",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "half_circle.pvr",
+                                                        "hash": "f25dcabcebddb9adb6278db0647f5d00",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "circle.pvr",
+                                                        "hash": "5348e378327d0f21714885cba3843ed2",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2022-01-13T18:35:10",
+                                                        "name": "Color Picker",
+                                                        "hash": "8d80172213e6b6b1befbdfe0c847a977",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-01-13T18:24:29",
+                                                                "name": "colorPicker_popup.pvr",
+                                                                "hash": "4081c5e100cee199c73c5a65bcd3f1af",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-01-13T18:24:29",
+                                                                "name": "colorpicker_background.pvr",
+                                                                "hash": "13f99fe5f5f2688822059993c43d0e2e",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-01-13T18:24:29",
+                                                                "name": "palette_background.pvr",
+                                                                "hash": "4d11d75ae2243c861010d652ed6f4458",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-01-13T18:24:29",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2022-01-13T18:35:10",
+                                                        "name": "Toggle",
+                                                        "hash": "b6212903c68504f86e0b85fd0afd6ef8",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-01-13T18:24:29",
+                                                                "name": "toggle_background.pvr",
+                                                                "hash": "8fb4180d0842adf53a14ccf422ddf41d",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-01-13T18:24:29",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "Base.png",
+                                                        "hash": "203b97f7dd88fd357a12944549da2218",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-01-13T18:35:10",
+                                                "name": "Materials",
+                                                "hash": "d746092c2ad2df5cd7c4dd970ed5146c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:35:10",
+                                                        "name": "Palette Material.lsmat",
+                                                        "hash": "45d6b505ca15f77ec7a9eecb31fe969b",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:31",
+                                                        "name": "Popup Fill.lsmat",
+                                                        "hash": "66b60692e1e7d0704014a2266a44b986",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-01-13T18:35:10",
+                                                "name": "Scripts",
+                                                "hash": "1826a881b2a707e4af83a4cb30719da4",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "UIColorPicker.js",
+                                                        "hash": "3899f64c6205627b542fc65f4fa22420",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "UIPopup.js",
+                                                        "hash": "ff5e821b7f7d018fd0a03a4634d15da1",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "UIButton.js",
+                                                        "hash": "5b33eee8ee1df2fbb140a5cb2fa939fc",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "UIDiscretePicker.js",
+                                                        "hash": "8d56ba82106a6e5c7144ced901f1bfbf",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "UIToggle.js",
+                                                        "hash": "63f5718b78b0e3a23881210d26cfb4b9",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "UIPanel.js",
+                                                        "hash": "dd0fbff3f3a3839661124f523c66116c",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-01-13T18:35:10",
+                                                "name": "Fonts",
+                                                "hash": "16060818347d2e309d73a640d4470e01",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "fredoka_one_regular.ttf",
+                                                        "hash": "4a2f2ea45a0bb1abe81b47d0afde4aae",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-01-13T18:35:10",
+                                                "name": "Hints",
+                                                "hash": "724b778e2d1c9fe3367d731ecb87f31b",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2022-01-13T18:35:10",
+                                                        "name": "tap_hint",
+                                                        "hash": "03b8525b063b64a4493c136ef7e07fe0",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-01-13T18:24:29",
+                                                                "name": "atlas_0.pvr",
+                                                                "hash": "0f1936de9a90129574210976e17c38f4",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2022-01-13T18:24:29",
+                                                                "name": "animation.t3d",
+                                                                "hash": "1b58692851180994f5fc9e5186b7aa5b",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-01-13T18:24:29",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-01-13T18:24:29",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-13T18:24:29",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
                                 "isFolder": "false",
-                                "lastModified": "2022-01-12T15:41:16",
+                                "lastModified": "2022-01-13T17:42:35",
                                 "name": "Script.js",
-                                "hash": "22155aadb5231ccb1d6d623fbb33976f",
+                                "hash": "94a86682c078778d83bcab6e45222222",
                                 "children": ""
                             },
                             {
@@ -466,7 +2069,9 @@
                         ]
                     }
                 },
-                "complexResources": ""
+                "complexResources": [
+                    "1124"
+                ]
             },
             "tree": {
                 "name": "",
@@ -595,6 +2200,404 @@
                         "publicId": "1100",
                         "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-vtDwOZ\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
+                    },
+                    {
+                        "name": "UI",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1101",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Resources",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1102",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Scripts",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1103",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "UIButton",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "15",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469675031:597350",
+                                                "fileId": "9",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1104",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "UIToggle",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "16",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469688091:597366",
+                                                "fileId": "10",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1105",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "UIPanel",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "17",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469697450:597378",
+                                                "fileId": "11",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1106",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "UIColorPicker",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "18",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469706114:597390",
+                                                "fileId": "12",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1107",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "UIPopup",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "19",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469717699:597406",
+                                                "fileId": "13",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1108",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "UIDiscretePicker",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "20",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469725728:597418",
+                                                "fileId": "14",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1109",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1110",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Base",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "21",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469734243:597430",
+                                                "fileId": "15",
+                                                "originalId": "16",
+                                                "publicId": "1111",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "203b97f7dd88fd357a12944549da2218"
+                                                }
+                                            },
+                                            {
+                                                "name": "circle",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "22",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469745685:597442",
+                                                "fileId": "17",
+                                                "originalId": "18",
+                                                "publicId": "1112",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "5348e378327d0f21714885cba3843ed2"
+                                                }
+                                            },
+                                            {
+                                                "name": "Toggle",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1113",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "toggle_background",
+                                                        "type": "1",
+                                                        "subtype": "9",
+                                                        "resourceId": "23",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1642123469757417:597458",
+                                                        "fileId": "19",
+                                                        "originalId": "20",
+                                                        "publicId": "1114",
+                                                        "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                        "additional": {
+                                                            "originHash": "8fb4180d0842adf53a14ccf422ddf41d"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Color Picker",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1115",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "colorpicker_background",
+                                                        "type": "1",
+                                                        "subtype": "9",
+                                                        "resourceId": "24",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1642123469768813:597470",
+                                                        "fileId": "21",
+                                                        "originalId": "22",
+                                                        "publicId": "1116",
+                                                        "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                        "additional": {
+                                                            "originHash": "13f99fe5f5f2688822059993c43d0e2e"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "colorPicker_popup",
+                                                        "type": "1",
+                                                        "subtype": "9",
+                                                        "resourceId": "25",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1642123469780731:597486",
+                                                        "fileId": "23",
+                                                        "originalId": "24",
+                                                        "publicId": "1117",
+                                                        "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                        "additional": {
+                                                            "originHash": "4081c5e100cee199c73c5a65bcd3f1af"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "palette_background",
+                                                        "type": "1",
+                                                        "subtype": "9",
+                                                        "resourceId": "26",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1642123469792272:597498",
+                                                        "fileId": "25",
+                                                        "originalId": "26",
+                                                        "publicId": "1118",
+                                                        "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                        "additional": {
+                                                            "originHash": "4d11d75ae2243c861010d652ed6f4458"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "half_circle",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "27",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469803854:597510",
+                                                "fileId": "27",
+                                                "originalId": "28",
+                                                "publicId": "1119",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "f25dcabcebddb9adb6278db0647f5d00"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1120",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Popup Fill",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "28",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469814556:597526",
+                                                "fileId": "29",
+                                                "originalId": "30",
+                                                "publicId": "1121",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Palette Material",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "29",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469859400:597539",
+                                                "fileId": "31",
+                                                "originalId": "32",
+                                                "publicId": "1122",
+                                                "source": "",
+                                                "additional": {
+                                                    "isUnpackedInPublic": "false"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Hints",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1123",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "tap_hint",
+                                                "type": "1",
+                                                "subtype": "5",
+                                                "resourceId": "30",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469942192:597565",
+                                                "fileId": "33",
+                                                "originalId": "34",
+                                                "publicId": "1124",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyT3D.t3d",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fonts",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1125",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "fredoka_one_regular",
+                                                "type": "13",
+                                                "subtype": "0",
+                                                "resourceId": "31",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1642123469996045:597647",
+                                                "fileId": "35",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1126",
+                                                "source": "\/private\/var\/folders\/xq\/gq9ysc8573sgyrjb1yhmz54r0000gn\/T\/Lens Studio-UYXwpJ\/\/system\/\/emergencyFiles\/emergencyTtf.ttf",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             }
