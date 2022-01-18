@@ -1,6 +1,18 @@
-//@input Asset.RemoteServiceModule rsm
-//@input Component.Text t
+// @input float initialValue = 0.5
+// @input Component.ScriptComponent colorPickerScript
+// @input Asset.RemoteServiceModule rsm
+// @input Component.Text t
 
+// This function takes the slider value and returns a date offset
+// ranging from five years ago to fifteen minutes ago.
+function sliderToDate(sliderVal) {
+    const fiveYearsAgo = 60*60*24*365*5*1000;
+    const fifteenMinsAgo = 15*60*1000;
+    offset = sliderVal * (fiveYearsAgo-fifteenMinsAgo) + fifteenMinsAgo
+    return(offset)
+}
+
+// Handles API responses, checking for errors and success
 function handleAPIResponse(response, cb) {
     if (response.statusCode !== 1) {
         print("ERROR: The API call did not succeed!. Please check your request");
@@ -20,6 +32,7 @@ function handleAPIResponse(response, cb) {
     }
 }
 
+// Gets bar data from Alpaca according to params
 var getBars = function(symbol, start, end, limit, page_token, timeframe, adjustment, cb) {
     var request = global.RemoteApiRequest.create();
     request.endpoint = "get_bars";
@@ -32,21 +45,23 @@ var getBars = function(symbol, start, end, limit, page_token, timeframe, adjustm
 };
 
 // This function will update the textbox according to $TLSA's high at the given date
-function updateTeslaPrice(sliderDate) {
+function updateTeslaPrice(sliderVal) {
+    print(sliderVal)
     // Alpaca API requires calls to be 15 minutes ago or more
-    var now = new Date();
-    now = new Date(now.getTime() - 30*60*1000);
+    var offset = sliderToDate(sliderVal)
+    var dateOfStockPrice = new Date();
+    dateOfStockPrice = new Date(dateOfStockPrice.getTime() - offset);
     var sevenDaysAgo = 60*60*24*7*1000;
-    var oneWeekAgo = new Date(now.getTime() - sevenDaysAgo);
+    var oneWeekAgo = new Date(dateOfStockPrice.getTime() - sevenDaysAgo);
     
-    getBars(symbol, oneWeekAgo.toISOString(), now.toISOString(), undefined, undefined, "1Day", undefined, function(err, body) {
+    // Gets the bars for a whole week even though we only need one bar. Change later
+    getBars(symbol, oneWeekAgo.toISOString(), dateOfStockPrice.toISOString(), undefined, undefined, "1Hour", "all", function(err, body) {
         if (err) {
             print("ERROR: API did not return correctly");
         } else {
-            barsObject = JSON.stringify(body.bars[0]);
-            highPrice = body.bars[0].h.toFixed(2);
-            print(barsObject);
-            print(highPrice);
+            last_idx = body.bars.length - 1
+            barsObject = JSON.stringify(body.bars[last_idx]);
+            highPrice = body.bars[last_idx].h.toFixed(2);
             script.t.text = "$" + String(highPrice);
             // Read about the parsed bodys data here https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/historical/#bars
         }
@@ -55,5 +70,8 @@ function updateTeslaPrice(sliderDate) {
 
 var symbol = "TSLA"
 
-updateTeslaPrice() // Currently hardcoded for TSLA and 1 textbox
+script.colorPickerScript.api.addCallback("onSliderValueChanged", updateTeslaPrice);
+
+updateTeslaPrice(script.initialValue);
+script.colorPickerScript.api.setSliderValue(script.initialValue);
 
